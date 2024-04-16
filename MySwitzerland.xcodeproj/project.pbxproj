@@ -7,18 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DD38AB042BCE779A00050E57 /* AppIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = DD38AB032BCE779A00050E57 /* AppIcon.png */; };
 		DDB9D5942BCE77210090E594 /* MySwitzerlandApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDB9D5932BCE77210090E594 /* MySwitzerlandApp.swift */; };
 		DDB9D5962BCE77210090E594 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDB9D5952BCE77210090E594 /* ContentView.swift */; };
 		DDB9D5982BCE77220090E594 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DDB9D5972BCE77220090E594 /* Assets.xcassets */; };
 		DDB9D59B2BCE77220090E594 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DDB9D59A2BCE77220090E594 /* Preview Assets.xcassets */; };
+		DDB9D5A22BCE77430090E594 /* oergelimusik.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DDB9D5A12BCE77430090E594 /* oergelimusik.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DD38AB032BCE779A00050E57 /* AppIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AppIcon.png; sourceTree = "<group>"; };
 		DDB9D5902BCE77210090E594 /* MySwitzerland.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MySwitzerland.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDB9D5932BCE77210090E594 /* MySwitzerlandApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySwitzerlandApp.swift; sourceTree = "<group>"; };
 		DDB9D5952BCE77210090E594 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DDB9D5972BCE77220090E594 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DDB9D59A2BCE77220090E594 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DDB9D5A12BCE77430090E594 /* oergelimusik.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = oergelimusik.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +55,8 @@
 		DDB9D5922BCE77210090E594 /* MySwitzerland */ = {
 			isa = PBXGroup;
 			children = (
+				DD38AB032BCE779A00050E57 /* AppIcon.png */,
+				DDB9D5A12BCE77430090E594 /* oergelimusik.mp3 */,
 				DDB9D5932BCE77210090E594 /* MySwitzerlandApp.swift */,
 				DDB9D5952BCE77210090E594 /* ContentView.swift */,
 				DDB9D5972BCE77220090E594 /* Assets.xcassets */,
@@ -125,8 +131,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DD38AB042BCE779A00050E57 /* AppIcon.png in Resources */,
 				DDB9D59B2BCE77220090E594 /* Preview Assets.xcassets in Resources */,
 				DDB9D5982BCE77220090E594 /* Assets.xcassets in Resources */,
+				DDB9D5A22BCE77430090E594 /* oergelimusik.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,6 +280,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"MySwitzerland/Preview Content\"";
+				DEVELOPMENT_TEAM = 5RLQ565RC5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -300,6 +309,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"MySwitzerland/Preview Content\"";
+				DEVELOPMENT_TEAM = 5RLQ565RC5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
