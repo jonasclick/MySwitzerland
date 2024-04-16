@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  iOS Emoji Picker
+//  MySwitzerland
 //
 //  Created by Jonas Vetsch on 16.04.2024.
 //
