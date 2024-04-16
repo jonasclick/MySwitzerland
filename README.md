@@ -9,7 +9,8 @@ MySwitzerland is my first SwiftUI iOS application. You can look at some emojis t
 
 ## Demo
 
-[![Demo of the App MySwitzerland](http://img.youtube.com/vi/WQxO1EQaMzQ/0.jpg)](https://youtu.be/WQxO1EQaMzQ)
+[![Demo of the App MySwitzerland](http://img.youtube.com/vi/WQxO1EQaMzQ/0.jpg)](https://youtu.be/WQxO1EQaMzQ)  
+
 Click the image or this [link](https://youtu.be/WQxO1EQaMzQ) to watch a demo of the App.
 
 ## Credits
